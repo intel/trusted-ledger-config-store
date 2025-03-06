@@ -3638,5 +3638,25 @@
     "semver": "0.0.0",
     "digest": "sha256:6e95ec3844259b1ca8ee9c5e56250ff31f4991b841edf5e016335159f21ee0d5",
     "dateCreated": "2025-03-06T15:55:56Z"
+  },
+  {
+    "mrEnclave": "bd0fa5a05803ab7b5ca9157d9135708651dcbfc0d95f931dde35b5a78d3cf2db",
+    "mrSigner": "6ace14d9840fcbfa72ad3162251844cc2926d5792b210a9c0d87b9de77167381",
+    "isvProdId": "0",
+    "isvSvn": "0",
+    "buildVersion": "pr-caasgil2",
+    "semver": "0.0.0",
+    "digest": "sha256:ffefee00ceb1e7138ca39277afcdba6522799b852d78c51b6d64bd4f2c09792c",
+    "dateCreated": "2025-03-06T16:31:04Z"
+  },
+  {
+    "mrEnclave": "17755a9e6d30099f86a925e8df62648047a3e86898f00826c0244e3ed5035943",
+    "mrSigner": "6ace14d9840fcbfa72ad3162251844cc2926d5792b210a9c0d87b9de77167381",
+    "isvProdId": "1",
+    "isvSvn": "0",
+    "buildVersion": "pr-caasgil2",
+    "semver": "0.0.0",
+    "digest": "sha256:fe24561a0edc6c75683aede7a8a169e2bb7d0802f4046cc996e3f02f1dd6f3fc",
+    "dateCreated": "2025-03-06T16:31:15Z"
   }
 ]
