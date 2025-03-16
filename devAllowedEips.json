@@ -6508,5 +6508,15 @@
     "semver": "1.0.2",
     "digest": "sha256:62b3a21905e3dc20cbd4c83cf615bf2467c7bf7cf81e4fdb328ab07604951884",
     "dateCreated": "2025-03-15T23:01:43Z"
+  },
+  {
+    "mrEnclave": "64fc99ba6f18f1a07c1d49a7055c0d04f4591994d05a8725b62a5e3de7998d62",
+    "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
+    "isvProdId": "0",
+    "isvSvn": "0",
+    "buildVersion": "pr-18427",
+    "semver": "1.0.2",
+    "digest": "sha256:bfff47d553a679f4c50b2cfabfff7096510878e9ea2f69b7351bb6c24131a607",
+    "dateCreated": "2025-03-15T23:01:40Z"
   }
 ]
