@@ -7048,5 +7048,15 @@
     "semver": "0.0.0",
     "digest": "sha256:d9ad2d94012fc47cc48a18262bc6b8a6ceb8ba79f4c88dac43ea2ffef08afba1",
     "dateCreated": "2025-03-17T09:39:02Z"
+  },
+  {
+    "mrEnclave": "0ce727080978e82e9682de82cbb53a28acead2728abe72f0340ba81c3dabf552",
+    "mrSigner": "6ace14d9840fcbfa72ad3162251844cc2926d5792b210a9c0d87b9de77167381",
+    "isvProdId": "1",
+    "isvSvn": "0",
+    "buildVersion": "pr-caasgil2",
+    "semver": "0.0.0",
+    "digest": "sha256:bb3a09b8bc676686ca89283ca8fa14da5065e5cd0f249f54f5e8c04779d5c556",
+    "dateCreated": "2025-03-17T09:40:43Z"
   }
 ]
