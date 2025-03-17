@@ -6790,16 +6790,6 @@
     "dateCreated": "2025-03-17T03:26:00Z"
   },
   {
-    "mrEnclave": "",
-    "mrSigner": "",
-    "isvProdId": "1",
-    "isvSvn": "0",
-    "buildVersion": "pr-3774",
-    "semver": "0.0.0",
-    "digest": "sha256:0b7608fdb6252d1b13774f7d9291845c3d201458fccd988af9d40174ea3e5164",
-    "dateCreated": "2025-03-17T03:57:48Z"
-  },
-  {
     "mrEnclave": "7435b6e2659cb94dada213738e0afdf231805dea5a9cf32324356595f79d1ce6",
     "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
     "isvProdId": "0",
