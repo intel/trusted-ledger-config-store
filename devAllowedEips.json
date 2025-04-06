@@ -1,25 +1,5 @@
 [
   {
-    "mrEnclave": "210f87b5d0860fe44b4a5986f07d219ec31287a4dfef023dbc1eb9f0aec09903",
-    "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
-    "isvProdId": "0",
-    "isvSvn": "0",
-    "buildVersion": "0.0.0-1863",
-    "semver": "0.0.0",
-    "digest": "sha256:b259fc0e2aa4f7c679de2c8ed3ade3d609d1a9966240d083c05fc2726c6bb4ea",
-    "dateCreated": "2025-02-18T09:17:47Z"
-  },
-  {
-    "mrEnclave": "eef52c634258ac4dd38b43de43c6264add02c21d1ecd757a7ecdf1f844175587",
-    "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
-    "isvProdId": "1",
-    "isvSvn": "0",
-    "buildVersion": "0.0.0-1863",
-    "semver": "0.0.0",
-    "digest": "sha256:400a7e792122ede64130f14c15de4e673a27dbc78d7cd186c44c087bd40953b9",
-    "dateCreated": "2025-02-18T09:17:48Z"
-  },
-  {
     "mrEnclave": "1aa26ebf869c8701d63c27fba5fed4280971a42793afcc143257a717bcb48507",
     "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
     "isvProdId": "0",
