@@ -1,55 +1,5 @@
 [
   {
-    "mrEnclave": "7918f9d88e9cdb5c83c9392ebe2c0429d40143be3b185c64e07cc867073d8960",
-    "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
-    "isvProdId": "0",
-    "isvSvn": "0",
-    "buildVersion": "pr-18336",
-    "semver": "0.0.0",
-    "digest": "sha256:be0021ef9ca2ddd0180c8d55ce7d5bee3674a38664f6dfc4e91f14fc5c4f7b65",
-    "dateCreated": "2025-03-08T20:22:45Z"
-  },
-  {
-    "mrEnclave": "d72f960f46fb0949ed58d12c6a39b4e6e7343cf33cd159a91b6f023a81efa010",
-    "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
-    "isvProdId": "0",
-    "isvSvn": "0",
-    "buildVersion": "pr-18336",
-    "semver": "0.0.0",
-    "digest": "sha256:37cbf339fd60b93beacf729b69600cd97bf47d8e4d38fad93d66c9db585a9c7c",
-    "dateCreated": "2025-03-08T20:22:46Z"
-  },
-  {
-    "mrEnclave": "5b0cde772ae9b6ed9aeeec41a6b8e58ef4cdfc34860c2ec10b324293f60e967a",
-    "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
-    "isvProdId": "1",
-    "isvSvn": "0",
-    "buildVersion": "pr-18336",
-    "semver": "0.0.0",
-    "digest": "sha256:a32f76323df28544c29fd57ca58ec10e93b2e90510cd184d1a8b6dc449fe66b0",
-    "dateCreated": "2025-03-08T20:22:48Z"
-  },
-  {
-    "mrEnclave": "e2a8f80996b51903f6163c6fd18cd45154ce9ba89439b7e35ae6d2eba5c632a0",
-    "mrSigner": "6ace14d9840fcbfa72ad3162251844cc2926d5792b210a9c0d87b9de77167381",
-    "isvProdId": "0",
-    "isvSvn": "0",
-    "buildVersion": "pr-caasgil2",
-    "semver": "0.0.0",
-    "digest": "sha256:6f6b440fa07338687d2d6a1381c59d9e219fa86e444b029e443f7865feed99ab",
-    "dateCreated": "2025-03-09T12:01:03Z"
-  },
-  {
-    "mrEnclave": "8a7700e5951ab06b5e3580eeddeed1ba25aa8f83943326171f087a0b55b428f1",
-    "mrSigner": "6ace14d9840fcbfa72ad3162251844cc2926d5792b210a9c0d87b9de77167381",
-    "isvProdId": "1",
-    "isvSvn": "0",
-    "buildVersion": "pr-caasgil2",
-    "semver": "0.0.0",
-    "digest": "sha256:9d579a6cc23389f14aa6af2af8849f2c1990fb046e129af9dc619fc513c2488d",
-    "dateCreated": "2025-03-09T12:01:15Z"
-  },
-  {
     "mrEnclave": "1499b1b8e1cf907c5fca5d65056781102b5cb937f5a4d1528b60e420e94888b9",
     "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
     "isvProdId": "0",
